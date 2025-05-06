@@ -1,0 +1,101 @@
+ID_Venda,Data,Produto,Categoria,Quantidade,Preco_Unitario,Desconto (%),Vendedor,Loja
+1,2025-05-05,Celular,Eletrônicos,1,1500.0,10,Maria,Loja A
+2,2025-05-14,Celular,Eletrônicos,6,1500.0,20,João,Loja C
+3,2025-05-17,Notebook,Eletrônicos,1,3500.0,0,Maria,Loja A
+4,2025-05-21,Tablet,Eletrônicos,1,2200.0,20,Maria,Loja C
+5,2025-05-09,Cadeira Gamer,Móveis,4,1500.0,5,Ana,Loja C
+6,2025-05-05,Notebook,Eletrônicos,2,3500.0,15,Lucas,Loja B
+7,2025-05-04,Mouse,Periféricos,3,50.0,0,João,Loja B
+8,2025-05-24,Teclado,Periféricos,3,100.0,20,Lucas,Loja A
+9,2025-05-18,Webcam,Periféricos,5,300.0,0,Ana,Loja A
+10,2025-05-07,Monitor,Periféricos,6,1200.0,20,Lucas,Loja C
+11,2025-05-28,Celular,Eletrônicos,1,1500.0,5,Lucas,Loja A
+12,2025-05-21,Mouse,Periféricos,1,50.0,15,Lucas,Loja B
+13,2025-05-22,Teclado,Periféricos,2,100.0,10,Lucas,Loja A
+14,2025-05-24,Monitor,Periféricos,6,1200.0,0,Maria,Loja C
+15,2025-05-30,Mouse,Periféricos,2,50.0,15,Ana,Loja B
+16,2025-05-27,Cadeira Gamer,Móveis,2,1500.0,10,João,Loja A
+17,2025-05-07,Notebook,Eletrônicos,3,3500.0,15,Lucas,Loja A
+18,2025-05-16,Tablet,Eletrônicos,6,2200.0,10,Maria,Loja C
+19,2025-05-05,Fone Bluetooth,Acessórios,6,250.0,15,Maria,Loja B
+20,2025-05-19,Mouse,Periféricos,6,50.0,20,Lucas,Loja C
+21,2025-05-05,Fone Bluetooth,Acessórios,5,250.0,15,Lucas,Loja A
+22,2025-05-05,Cadeira Gamer,Móveis,4,1500.0,0,João,Loja A
+23,2025-05-13,Impressora,Periféricos,6,800.0,15,João,Loja B
+24,2025-05-28,Tablet,Eletrônicos,4,2200.0,20,Lucas,Loja C
+25,2025-05-11,Notebook,Eletrônicos,6,3500.0,0,Lucas,Loja C
+26,2025-05-01,Celular,Eletrônicos,3,1500.0,15,Maria,Loja B
+27,2025-05-10,Monitor,Periféricos,5,1200.0,5,João,Loja C
+28,2025-05-25,Cadeira Gamer,Móveis,5,1500.0,5,Maria,Loja B
+29,2025-05-11,Impressora,Periféricos,5,800.0,20,João,Loja C
+30,2025-05-08,Webcam,Periféricos,1,300.0,0,Lucas,Loja B
+31,2025-05-24,Notebook,Eletrônicos,2,3500.0,20,João,Loja A
+32,2025-05-22,Webcam,Periféricos,1,300.0,20,Maria,Loja A
+33,2025-05-28,Webcam,Periféricos,5,300.0,5,Lucas,Loja C
+34,2025-05-10,Tablet,Eletrônicos,4,2200.0,5,Maria,Loja C
+35,2025-05-15,Fone Bluetooth,Acessórios,6,250.0,10,Ana,Loja C
+36,2025-05-01,Celular,Eletrônicos,2,1500.0,5,João,Loja B
+37,2025-05-03,Tablet,Eletrônicos,5,2200.0,5,Maria,Loja A
+38,2025-05-03,Notebook,Eletrônicos,2,3500.0,0,João,Loja B
+39,2025-05-18,Cadeira Gamer,Móveis,2,1500.0,10,Ana,Loja A
+40,2025-05-26,Impressora,Periféricos,6,800.0,20,Ana,Loja A
+41,2025-05-22,Webcam,Periféricos,4,300.0,5,João,Loja A
+42,2025-05-28,Fone Bluetooth,Acessórios,3,250.0,15,Ana,Loja B
+43,2025-05-24,Notebook,Eletrônicos,6,3500.0,0,João,Loja B
+44,2025-05-18,Teclado,Periféricos,1,100.0,5,Maria,Loja A
+45,2025-05-15,Webcam,Periféricos,2,300.0,15,Maria,Loja B
+46,2025-05-21,Mouse,Periféricos,1,50.0,15,João,Loja A
+47,2025-05-14,Cadeira Gamer,Móveis,1,1500.0,0,Maria,Loja A
+48,2025-05-06,Webcam,Periféricos,4,300.0,5,Ana,Loja A
+49,2025-05-10,Fone Bluetooth,Acessórios,1,250.0,15,Lucas,Loja B
+50,2025-05-07,Fone Bluetooth,Acessórios,6,250.0,20,Ana,Loja A
+51,2025-05-11,Monitor,Periféricos,2,1200.0,0,João,Loja C
+52,2025-05-30,Notebook,Eletrônicos,1,3500.0,20,Ana,Loja C
+53,2025-05-03,Cadeira Gamer,Móveis,2,1500.0,0,João,Loja A
+54,2025-05-31,Tablet,Eletrônicos,1,2200.0,5,Ana,Loja A
+55,2025-05-03,Tablet,Eletrônicos,2,2200.0,20,João,Loja C
+56,2025-05-07,Fone Bluetooth,Acessórios,6,250.0,20,Lucas,Loja B
+57,2025-05-22,Teclado,Periféricos,2,100.0,10,Ana,Loja A
+58,2025-05-15,Monitor,Periféricos,4,1200.0,10,João,Loja A
+59,2025-05-07,Tablet,Eletrônicos,5,2200.0,0,João,Loja C
+60,2025-05-29,Cadeira Gamer,Móveis,3,1500.0,5,Lucas,Loja A
+61,2025-05-27,Mouse,Periféricos,3,50.0,10,Maria,Loja B
+62,2025-05-27,Cadeira Gamer,Móveis,6,1500.0,10,João,Loja C
+63,2025-05-04,Cadeira Gamer,Móveis,3,1500.0,0,Maria,Loja B
+64,2025-05-10,Celular,Eletrônicos,6,1500.0,20,Maria,Loja B
+65,2025-05-21,Tablet,Eletrônicos,2,2200.0,10,Maria,Loja C
+66,2025-05-03,Monitor,Periféricos,5,1200.0,15,Lucas,Loja A
+67,2025-05-25,Fone Bluetooth,Acessórios,3,250.0,0,João,Loja B
+68,2025-05-15,Impressora,Periféricos,6,800.0,10,Maria,Loja C
+69,2025-05-03,Cadeira Gamer,Móveis,6,1500.0,15,João,Loja A
+70,2025-05-18,Impressora,Periféricos,5,800.0,0,Lucas,Loja C
+71,2025-05-12,Impressora,Periféricos,4,800.0,5,João,Loja B
+72,2025-05-04,Notebook,Eletrônicos,3,3500.0,5,Maria,Loja C
+73,2025-05-28,Teclado,Periféricos,5,100.0,15,Maria,Loja A
+74,2025-05-24,Impressora,Periféricos,2,800.0,15,João,Loja A
+75,2025-05-26,Teclado,Periféricos,4,100.0,5,Lucas,Loja A
+76,2025-05-07,Celular,Eletrônicos,4,1500.0,0,Ana,Loja A
+77,2025-05-01,Webcam,Periféricos,3,300.0,10,Maria,Loja A
+78,2025-05-31,Mouse,Periféricos,4,50.0,10,Lucas,Loja A
+79,2025-05-27,Monitor,Periféricos,3,1200.0,20,Ana,Loja C
+80,2025-05-06,Cadeira Gamer,Móveis,3,1500.0,0,João,Loja B
+81,2025-05-14,Tablet,Eletrônicos,3,2200.0,0,João,Loja C
+82,2025-05-17,Teclado,Periféricos,6,100.0,10,Ana,Loja C
+83,2025-05-02,Celular,Eletrônicos,4,1500.0,20,Maria,Loja B
+84,2025-05-14,Fone Bluetooth,Acessórios,1,250.0,20,Maria,Loja B
+85,2025-05-28,Celular,Eletrônicos,6,1500.0,10,Lucas,Loja C
+86,2025-05-14,Celular,Eletrônicos,6,1500.0,10,Lucas,Loja C
+87,2025-05-14,Teclado,Periféricos,4,100.0,10,Maria,Loja A
+88,2025-05-18,Fone Bluetooth,Acessórios,6,250.0,5,Lucas,Loja B
+89,2025-05-26,Notebook,Eletrônicos,3,3500.0,10,Maria,Loja B
+90,2025-05-15,Tablet,Eletrônicos,5,2200.0,10,Ana,Loja B
+91,2025-05-03,Mouse,Periféricos,5,50.0,15,Maria,Loja C
+92,2025-05-27,Monitor,Periféricos,5,1200.0,20,Lucas,Loja A
+93,2025-05-05,Mouse,Periféricos,6,50.0,10,Maria,Loja A
+94,2025-05-28,Notebook,Eletrônicos,1,3500.0,5,Ana,Loja C
+95,2025-05-23,Celular,Eletrônicos,4,1500.0,15,Maria,Loja C
+96,2025-05-21,Fone Bluetooth,Acessórios,4,250.0,15,Maria,Loja A
+97,2025-05-26,Notebook,Eletrônicos,1,3500.0,15,Maria,Loja A
+98,2025-05-15,Cadeira Gamer,Móveis,4,1500.0,0,Maria,Loja A
+99,2025-05-20,Impressora,Periféricos,4,800.0,20,Lucas,Loja B
+100,2025-05-24,Cadeira Gamer,Móveis,4,1500.0,20,Ana,Loja A
